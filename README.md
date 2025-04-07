@@ -31,4 +31,4 @@
 
 | Language / portion |
 | --- | 
-| <span><img src="https://img.shields.io/badge/-JAVA-blueviolet"/>30%</span> |
+| <span><img src="https://img.shields.io/badge/-JAVA-blueviolet"/>&nbsp;&nbsp;30%</span> |
