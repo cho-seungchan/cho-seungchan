@@ -36,3 +36,11 @@
 | <span><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=round-square&logo=mysql&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15%</span> |
 | <span><img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=HTML&logoColor=black"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10%</span> |
 | </span> <span><img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=CSS&logoColor=black"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10%</span> |
+
+
+
+<div align=left>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cho-seungchan&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=cho-seungchan&show_icons=true">
+</div>
+<br>
