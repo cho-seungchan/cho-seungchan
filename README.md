@@ -8,7 +8,7 @@
 👶 1967.02.05 <br>
 📞 010-8730-6725 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jfk6725@gmail.com)](mailto:jfk6725@gmail.com) <span><a href="https://spotty-alligator-d0a.notion.site/1d2634bc7bbb80cfb597db655c3a0725?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jfk6725@gmail.com)](mailto:jfk6725@gmail.com) <span><a href="https://www.notion.so/1d2634bc7bbb80cfb597db655c3a0725"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
